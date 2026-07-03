@@ -1,5 +1,5 @@
 """
-vector_store.py
+vector_store.py file
 ----------------
 Wraps ChromaDB so the rest of the app doesn't need to know about
 embedding models or Chroma's API directly.
