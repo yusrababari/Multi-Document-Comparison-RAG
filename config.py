@@ -1,5 +1,5 @@
 """
-config.py
+config.py file
 ---------
 Central place for all the knobs you'll want to tune while experimenting.
 Keeping these in one file makes it easy to run controlled experiments,
