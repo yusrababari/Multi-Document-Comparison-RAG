@@ -1,5 +1,5 @@
 """
-compare.py
+compare.py file 
 ----------
 Builds a structured, source-attributed prompt from the per-document
 retrieval results and calls the LLM to produce a comparison.
