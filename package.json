@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "python3 app.py",
-    "dev": "python3 app.py"
+    "start": "python3 app.py --host 127.0.0.1 --port 8000",
+    "dev": "python3 app.py --host 127.0.0.1 --port 8000"
   }
 }
