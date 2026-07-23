@@ -1,0 +1,9 @@
+{
+  "name": "context-aware-knowledge-assistant-rag-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 app.py",
+    "dev": "python3 app.py"
+  }
+}
